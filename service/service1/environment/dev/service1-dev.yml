@@ -3,4 +3,4 @@ server.port=3005
 entorno=integracion
 offers.discount=40%
 books.welcome.message=LEGIBLE
-libracos.tochos=10
+libracos.tochos=100
